@@ -6,15 +6,6 @@ A cross-platform **React Native application** for managing personal finances. Us
 
 ---
 
-## 📸 Screenshots
-
-| Sign In | Sign Up | Main Screen |
-|--------|---------|-------------|
-| ![Sign In]![Screenshot_1751296694](https://github.com/user-attachments/assets/a7a39dc3-666f-4eb7-ba8c-e3c37534965c)
- | ![Sign Up]( ![1](https://github.com/user-attachments/assets/d8d709df-dfc9-43d6-a6a6-340c62f77592)
- ) | ![Main Screen]() |
-
----
 
 ## ✨ Features
 

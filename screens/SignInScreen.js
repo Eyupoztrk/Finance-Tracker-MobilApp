@@ -88,7 +88,7 @@ const SignInScreen = () => {
                     placeholderTextColor="#888"
                     value={password}
                     onChangeText={setPassword}
-                    secureTextEntry // Şifrenin gizli görünmesini sağlar
+                    secureTextEntry 
                 />
 
                 <TouchableOpacity style={styles.button} onPress={handleSignIn}>

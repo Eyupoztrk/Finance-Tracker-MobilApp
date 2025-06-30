@@ -5,7 +5,7 @@ import { StatusBar, StyleSheet} from 'react-native';
 
 import SignUpScreen from './screens/SignUpScreen';
 import SignInScreen from './screens/SignInScreen';
-import MainScreen from './screens/MainScreen'; // Eğer varsa
+import MainScreen from './screens/MainScreen'; 
 
 const Stack = createNativeStackNavigator();
 
@@ -16,7 +16,7 @@ export default function App() {
       <Stack.Navigator
         initialRouteName="SignIn"
         screenOptions={{
-          headerShown: false, // İsteğe bağlı, ekran üstündeki başlığı gizler
+          headerShown: false,
         }}
       >
         <Stack.Screen name="SignIn" component={SignInScreen} />
@@ -30,6 +30,6 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f0f4f7', // Arka plan rengini ekranlarla aynı yapıyoruz.
+    backgroundColor: '#f0f4f7',
   },
 });

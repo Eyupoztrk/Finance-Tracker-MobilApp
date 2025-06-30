@@ -18,11 +18,4 @@ A cross-platform **React Native application** for managing personal finances. Us
 
 ---
 
-## ⚙️ Setup Instructions
 
-### 1. Install dependencies
-
-```bash
-npm install
-# or
-yarn install
